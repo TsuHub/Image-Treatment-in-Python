@@ -1,0 +1,22 @@
+Sem Cor
+
+output_VideoTeste.mp4
+
+[INFO] loading YOLO from disk...
+[INFO] 757 total frames in video
+[INFO] single frame took 2.0780 seconds
+[INFO] estimated total time to finish: 1573.0255
+se fossem 758 => 1575,1035 segundos
+
+================================================
+
+Com Cor
+
+VideoTeste.mp4
+
+[INFO] loading YOLO from disk...
+[INFO] 758 total frames in video
+[INFO] single frame took 2.0780 seconds
+[INFO] estimated total time to finish: 1575.1067
+[INFO] cleaning up...
+
